@@ -1,0 +1,16 @@
+{
+    "id": "382fe9b4-d572-4369-a172-b30696f36b58",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "zamp",
+        "homepage": "zamp.com",
+        "support": "za"
+    },
+    "name": "HelloWorld",
+    "nameSlug": "helloworld",
+    "classFile": "HelloWorldApp.ts",
+    "description": "Says hi",
+    "implements": []
+}
